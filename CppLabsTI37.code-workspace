@@ -6,7 +6,7 @@
     ],
     "settings": {
         "editor.fontSize": 16,
-        "terminal.integrated.fontSize": 26,
+        "terminal.integrated.fontSize": 16,
         "files.associations": {
             "*.ejs": "html",
             "iostream": "cpp",
